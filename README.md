@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Elmi  
 
 Welcome to my corner of GitHub! I’m a **Computer Science student** with a deep passion for **Artificial Intelligence, technology, and business innovation**.
-I believe code isn’t just about solving problems — it’s about building bridges between ideas and reality.  
+I believe code isn’t just about solving problems — it’s about building bridges between ideas and reality.
+#Lets build the Future!
 
 ---
 
@@ -32,7 +33,7 @@ Here’s what I’m currently exploring and working with:
 ## 📫 Let’s Connect  
 - ✨ [LinkedIn] (https://www.linkedin.com/in/yussuf-elmi-ba91452b4/)  
 - ✨ [Twitter]( 
-- ✨ [Email](yussuf.a.elmi@gmail.com)  
+- ✨ [Email] (yussuf.a.elmi@gmail.com)  
 
 I’m always open to meaningful conversations — whether about tech, startups, or the future of AI.  
 
