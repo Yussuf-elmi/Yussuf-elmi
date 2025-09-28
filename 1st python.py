@@ -24,7 +24,7 @@ def bmi_category(bmi: float) -> str:
     elif 25 <= bmi < 30:
         return "Overweight"
     else:
-        return "Obesity"
+        return "OBESITY GO TO THE GYM"
 
 def main():
     print("BMI Calculator")
