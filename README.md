@@ -16,7 +16,7 @@ CS student who loves APIs, coding and frameworks. I love python!
 🌱 &nbsp;I'm currently learning **Distributed systems and API**  
 👯 &nbsp;I'm looking to collaborate on **open-source tools**  
 🤔 &nbsp;I'm looking for help with **Dockers, Kubernetes and CI/CD**  
-💬 &nbsp;Ask me about **API design, DSA, and ow code AI automation**  
+💬 &nbsp;Ask me about **API design, DSA, and low code AI automation**  
 😄 &nbsp;Pronouns: **He/Him**  
 ⚡ &nbsp;Fun fact: **I once erased my laptop operating sytems-linux and windows while trying to add MacOS tahoe. Too greedy!**
 
