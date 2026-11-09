@@ -11,8 +11,7 @@
 ### 🚀 About Me
 
 CS student who loves APIs, coding and frameworks. I love python!
-
-🔭 &nbsp;I'm currently working on **A simulated heart surgery with cutting-edge distance constraints.**  
+  
 🌱 &nbsp;I'm currently learning **Distributed systems and API**  
 👯 &nbsp;I'm looking to collaborate on **open-source tools**  
 🤔 &nbsp;I'm looking for help with **Dockers, Kubernetes and CI/CD**  
